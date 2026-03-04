@@ -1,5 +1,7 @@
 # manthan-demo
-This is my first Git hub repository  , this is my project Arduino uno code
+This is my first Git hub repository  , 
+Author - Gosai 
+This is my project Arduino uno code
 #include <SoftwareSerial.h>
 
 
